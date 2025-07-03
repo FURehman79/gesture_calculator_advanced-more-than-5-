@@ -75,7 +75,7 @@ Developed with ❤️ by [FAIZAN UR REHMAN]
 ## 🌐 GitHub Repo
 
 ```
-https://github.com/YourUsername/gesture_calculator_advanced
+https://github.com/FURehman79/gesture_calculator_advanced
 ```
 
 ---
