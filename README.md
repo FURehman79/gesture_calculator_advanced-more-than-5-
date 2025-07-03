@@ -69,7 +69,7 @@ If the user shows **only one hand**, the app says **"Thank you"** as a friendly 
 
 ## 🧑‍💻 Author
 
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by [FAIZAN UR REHMAN]
 
 ---
 
