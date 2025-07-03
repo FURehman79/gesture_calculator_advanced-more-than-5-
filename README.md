@@ -49,15 +49,14 @@ pip install opencv-python mediapipe pyttsx3
 ---
 
 ## 🧠 Operator Gestures
-
 | Gesture                | Operator |
 | ---------------------- | -------- |
 | 👍 Thumb Only          | +        |
 | ✌ Peace (Index+Middle) | -        |
-| 👍🖐 Thumb+Index       | \*       |
-| 🖐🖐 Three Fingers     | /        |
-| All fingers folded     | EVAL     |
-| All fingers open       | CLEAR    |
+| 👆 Thumb+Index       | \*       |
+| ☝️ Three Fingers     | /        |
+| ✊ All fingers folded     | EVAL     |
+| 🖐️ All fingers open       | CLEAR    |
 
 ---
 
